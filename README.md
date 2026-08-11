@@ -33,10 +33,8 @@ This project analyzes the financial performance of the top 5 FMCG companies in I
 
 * Dashboard/Project_Dashboard.pbix
 * Report/FMCG_Power_BI_Project_Report.pdf
+* Screenshots/
 
-## Dashboard Preview
-
-(Add screenshots from the Screenshots folder here)
 
 ## Key Insights
 
